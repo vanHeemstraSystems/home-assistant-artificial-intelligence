@@ -1,4 +1,4 @@
-repository-name
+nom du référentiel
 
 # Nom du référentiel
 
@@ -7,7 +7,7 @@ repository-name
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
--   [Références](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
