@@ -1,14 +1,14 @@
-Repository-Name
+Heimassistent-künstliche Intelligenz
 
-# Repository-Name
+# Künstliche Intelligenz des Heimassistenten
 
 > Slugline
 
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [Bilder](./IMAGES.md)
 -   [Referenzen](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
 
@@ -16,9 +16,9 @@ Text
 
 ## 100 - Einführung
 
-See [README.md](./100/README.md)
+Sehen[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 – Anforderungen
 
 Sehen[README.md](./200/README.md)
 
@@ -28,4 +28,4 @@ Sehen[README.md](./300/README.md)
 
 ## 400 – Fazit
 
-See [README.md](./400/README.md)
+Sehen[README.md](./400/README.md)
