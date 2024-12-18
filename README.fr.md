@@ -1,13 +1,13 @@
-nom du référentiel
+home-assistant-artificial-intelligence
 
-# Nom du référentiel
+# Intelligence Artificielle Assistante à Domicile
 
 > Slugline
 
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
--   [References](./REFERENCES.md)
+-   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
