@@ -7,18 +7,18 @@ nombre-repositorio
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
--   [Referencias](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
 **Resumen ejecutivo**
 
 Texto
 
-## 100 - Introduction
+## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Requisitos
 
 Ver[README.md](./200/README.md)
 
