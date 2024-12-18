@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+home-assistant-artificial-intelligence
+# Home Assistant Artifical Intelligence
 
 > Slugline
 
