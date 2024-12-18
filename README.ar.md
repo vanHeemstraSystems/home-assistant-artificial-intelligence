@@ -1,8 +1,8 @@
-اسم المستودع
+مساعد منزلي-الذكاء الاصطناعي
 
-# اسم المستودع
+# Home Assistant Artifical Intelligence
 
-> سلوجلاين
+> Slugline
 
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
@@ -18,7 +18,7 @@
 
 يرى[README.md](./100/README.md)
 
-## 200 - المتطلبات
+## 200 - Requirements
 
 يرى[README.md](./200/README.md)
 
