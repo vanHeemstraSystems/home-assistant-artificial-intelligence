@@ -6,9 +6,9 @@ Repository-Name
 
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
--   [Bilder](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [Referenzen](./REFERENCES.md)
--   [Telemetrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **Zusammenfassung**
 
@@ -16,7 +16,7 @@ Text
 
 ## 100 - Einführung
 
-Sehen[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Requirements
 
@@ -28,4 +28,4 @@ Sehen[README.md](./300/README.md)
 
 ## 400 – Fazit
 
-Sehen[README.md](./400/README.md)
+See [README.md](./400/README.md)
