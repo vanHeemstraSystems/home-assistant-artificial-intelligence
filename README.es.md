@@ -12,13 +12,13 @@ nombre-repositorio
 
 **Resumen ejecutivo**
 
-Text
+Texto
 
-## 100 - Introducción
+## 100 - Introduction
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
 Ver[README.md](./200/README.md)
 
